@@ -17,3 +17,9 @@ export default {
   }
 }
 </script>
+
+<style>
+  h1 {
+    font-size: 30px;
+  }
+</style>
